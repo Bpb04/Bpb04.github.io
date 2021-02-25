@@ -1,20 +1,21 @@
-**#LOS GALGOS**
+**# LOS GALGOS**
 
-[TextoAlternativo](Galgo.jfij)
+[Foto Galgo](Galgo.jfij)
 
 Tipos de Galgos:
--Afgano.
--Árabe.
--Azawakh.
--Escocés.
--Español.
--Inglés.
--Irlandés.
--Italiano.
--Persa.
--Ruso.
--Whippet.
 
-< En España los Galgos corren hasta la muerte - SOS Galgos. 
-[Enlace en Linea](https://www.sosgalgos.org/)
+1. Afgano.
+2. Árabe.
+3. Azawakh.
+4. Escocés.
+5. Español.
+6. Inglés.
+7. Irlandés.
+8. Italiano.
+9. Persa.
+10. Ruso.
+11. Whippet.
+
+> En España los Galgos corren hasta la muerte - [SOS Galgos](https://www.sosgalgos.org/)
+
 "Import Java"
