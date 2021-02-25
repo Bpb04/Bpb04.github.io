@@ -1,4 +1,4 @@
-**# LOS GALGOS**
+# LOS GALGOS
 
 [Foto Galgo](Galgo.jfif)
 
