@@ -24,6 +24,6 @@ Tipos de Galgos:
 
 [Pagina SOS Galgos](https://sosgalgos.org/)
 
-![](galgo.jfif)
+![texto alternativo](galgo.jfif)
 
 " Import Java "
