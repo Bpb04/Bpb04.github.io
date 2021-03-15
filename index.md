@@ -1,5 +1,7 @@
 # LOS GALGOS
 
+'Los galgos'
+
 [Foto Galgo](Galgo.jfif)
 
 Tipos de Galgos:
