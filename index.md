@@ -1,8 +1,8 @@
 # LOS GALGOS
 
-'Los galgos'
+' Los galgos '
 
-"Los galgos"
+" Los galgos "
 
 [Foto Galgo](Galgo.jfif)
 
@@ -26,4 +26,4 @@ Tipos de Galgos:
 
 ![Descargar Imagen Galgo](galgo.jfif)
 
-"Import Java"
+" Import Java "
