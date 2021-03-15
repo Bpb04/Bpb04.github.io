@@ -16,6 +16,6 @@ Tipos de Galgos:
 10. Ruso.
 11. Whippet.
 
-> En España los Galgos corren hasta la muerte - [SOS Galgos](https://www.sosgalgos.org/)
+> En España los Galgos corren hasta la muerte - ![SOS Galgos](https://www.sosgalgos.org/)
 
 "Import Java"
