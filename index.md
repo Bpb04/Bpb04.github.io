@@ -17,6 +17,7 @@ Tipos de Galgos:
 11. Whippet.
 
 > En España los Galgos corren hasta la muerte
+
 ![SOS Galgos](https://www.sosgalgos.org/)
 
 "Import Java"
